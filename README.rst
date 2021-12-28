@@ -1,40 +1,31 @@
-AlertOps Expert Guidance
+4 IT Service Metrics You Need to Track
 ========
+IT service metrics, i.e. service variables that an IT team tracks over time, are crucial. If an IT team establishes service metrics and monitors these metrics regularly, it can become a valuable resource to internal and external business stakeholders.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+A combination of operational and customer feedback IT service metrics is key. With these metrics in place, an IT team can define problems and address them accordingly. Plus, an IT team can use service metrics to identify improvement and innovation opportunities – something that could help the team become a vital contributor to an organization’s success.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+IT Service Metrics Categories
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+There are four categories of IT service metrics:
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+    Capability: Also known as quantity, capability refers to the amount of resource being used. For example, to measure a service’s capability, an IT team can track CPU usage, disk space, memory usage and bandwidth.
+    Performance: Think of performance in terms of the “health” of a service. To measure service performance, an IT team can track its uptime and reliability, as well as the team’s ability to meeting service-level agreement (SLA) deadlines.
+    Relevancy: Relevancy is used to measure a service’s importance to a customer. It requires an IT team to establish service levels and priorities based on customers’ needs. Thus, a service that is necessary to keep a customer network running likely is considered high-priority. On the other hand, a service that has little to no impact on end users may be considered low-priority.
+    Satisfaction: This metric is used to determine if a product or service meets or exceeds a customer’s expectations. IT teams may use surveys to gauge customer satisfaction.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Some IT teams use cost metrics, too. These metrics account for labor, software licensing fees and other IT expenses. They often help IT teams determine the root causes of escalating costs, as well as guide these teams’ budget planning efforts.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+Establish and Track IT Service Metrics
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+IT service metrics are valuable if used properly. If an IT team first establishes service goals, it then can identify metrics to evaluate its progress toward achieving these aspirations.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+An IT team should integrate metrics into its day-to-day operations. There is always room for improvement, and with the right approach to service metrics, an IT team can get the most out of the data at its disposal.
 
-1 Red Canary 2021 Threat Detection Report
+To learn more about the four critical categories of IT service management check out Mark’s article: “IT Service Metrics 101″
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/it-service-metrics/
 
 Read more:
 ====
